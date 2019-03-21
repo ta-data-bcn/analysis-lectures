@@ -6,6 +6,9 @@ Choose **one** of the following lectures and try to give your opinion about it, 
 
 Feel free to read all of them and make some comments if you are interested!
 
+**Deliverables**
+Fork this repo, create a markdown file with your comments, push your work and create a pull request!
+
 ## Lecture 1 - A Brief Exploration of Baseball Statistics
 **Reference:** [A Brief Exploration of Baseball Statistics](https://medium.com/@williamkoehrsen/data-analysis-with-python-19434f5d6324)
 
@@ -39,3 +42,10 @@ After reading the article...
 ## Lecture 3 - Lies, Damned Lies and Statistics (about TEDTalks)
 **Reference:** [Lies, Damned Lies and Statistics (about TEDTalks)](https://www.ted.com/talks/lies_damned_lies_and_statistics_about_tedtalks#t-316284)
 
+The third lecture is a presentation about the insights gotten from a TED Talks data analysis.
+
+After watching the video...
+- What do you think about the visualisations that the speaker used to present his insights? Which one is your favorite?
+- What's your opinion about the speech? Did he get his point across?
+- Was the presentation about a trascendental topic? Did it keep you glued to the screen?
+- Is there anything you think the speaker missed, something he could improve or do yo have some to-do ideas for him?
