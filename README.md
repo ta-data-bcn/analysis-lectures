@@ -2,6 +2,8 @@
 
 # Lab | Analysis Lectures
 
+Please go to the lecture 3
+
 ## Introduction
 The goal of this lab is for you to read real data analytics projects and give some feedback on them. 
 
@@ -47,10 +49,14 @@ After reading the article...
 The third lecture is a presentation about the insights gotten from a TED Talks data analysis.
 
 After watching the video...
-- What do you think about the visualisations that the speaker used to present his insights? Which one is your favorite?
-- What's your opinion about the speech? Did he get his point across?
-- Was the presentation about a trascendental topic? Did it keep you glued to the screen?
-- Is there anything you think the speaker missed, something he could improve or do yo have some to-do ideas for him?
+- What do you think about the visualisations that the speaker used to present his insights? Which one is your favorite?  
+    Overall, the visualisations are good, however, it took me a bit more time to read through the texts, which means that I paused the video and read it. The slide I liked the most is the one showing what good/bad words should/should not be used in the title. By using this slide, he can bring the "good tiltle" flawless.
+- What's your opinion about the speech? Did he get his point across?  
+    The topic is very interesting, and he brings his idea perfectly through the talk and well presented.
+- Was the presentation about a trascendental topic? Did it keep you glued to the screen?  
+    Yes, I did. Analyse the popularity of TED talk without concering the content remind me that how one should market himself. :p
+- Is there anything you think the speaker missed, something he could improve or do yo have some to-do ideas for him?  
+    The title. I can't see clearly the relationship between the title "Lies, Damed lies and statistics" with his talk. Maybe it's the result after the statistic, but I still don't like the title. 
 
 ## Deliverables
 - Markdown file with your comments about the lecture.
