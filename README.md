@@ -47,10 +47,11 @@ After reading the article...
 The third lecture is a presentation about the insights gotten from a TED Talks data analysis.
 
 After watching the video...
-- What do you think about the visualisations that the speaker used to present his insights? Which one is your favorite?
-- What's your opinion about the speech? Did he get his point across?
-- Was the presentation about a trascendental topic? Did it keep you glued to the screen?
-- Is there anything you think the speaker missed, something he could improve or do yo have some to-do ideas for him?
+- What do you think about the visualisations that the speaker used to present his insights? Which one is your favorite? 
+He adapted the visualisations to the mood of the speech, which was in a humouristic way. And a very easy understandable for general public, maybe not used to see statistics visualisations. My favourite was the basic one with the 3 main topics he was talking about: Topic, Delivery and Visuals as it was very basic but very useful showing it at the beggining of each topic with colour if the topic was not explained or grey if it was.
+- What's your opinion about the speech? Did he get his point across? It was a very good speech, adapted to the his public and making fun on some curious statistics from TedTalk. As it is not a serious speech, he adapted the language to the speech and make some jokes even with some of the statistics he had talked about seconds before. I guess his objective was to show some curious statistics from Ted Talk without being boring and he achieved that.
+- Was the presentation about a trascendental topic? Did it keep you glued to the screen? The presentation was not about a trascendental topic, but his way of speaking and explaining the results he got, keeped me glued to the screen. I was waiting for some more statistics!
+- Is there anything you think the speaker missed, something he could improve or do yo have some to-do ideas for him? I was expecting a small 'automated speech' on stage. It was not there although he left a web page with a pad to create our own speech, so maybe I can check it. In my opinion, this is a good way to check if the speech has 'touched' the public or not in a deep way, looking at the visits on this web page. And maybe he can use this statistics to prepare a new speech...
 
 ## Deliverables
 - Markdown file with your comments about the lecture.
